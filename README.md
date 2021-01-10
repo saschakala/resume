@@ -33,7 +33,7 @@ Javascript (ES6), React, Redux, Ruby, Rails, SQL, Postgres, HTML, CSS, Git, Adob
 
 ### <strong>Experience</strong>
 <strong>HBO Max</strong>, New York, NY <br>
-<i>Director’s Assistant, Americanah Production</i> <br>
+<i>Director’s Assistant, Americanah</i> <br>
 01/2020 - 03/2020
 * Facilitated interdepartmental communication and collaboration
 * Managed scheduling, kept meeting notes, and fostered relationships with each department head
