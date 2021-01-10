@@ -47,7 +47,7 @@ Javascript (ES6), React, Redux, Ruby, Rails, SQL, Postgres, HTML, CSS, Git, Adob
 <strong>Customer Service & Hospitality</strong>, Multiple locations <br>
 <i>City Pork, Baton Rouge, LA; Anthropologie, Minneapolis, MN; Ora Organic</i> <br>
 09/2007 - 09/2019
-* Served multiple customers simultaneously; worked as part of a team; proactively addressed problems
+* Helped multiple customers simultaneously; worked as part of a team; proactively addressed problems
 * Authored customer service protocol to standardize and prioritize customer experience
 
 ### <strong>Education</strong>
