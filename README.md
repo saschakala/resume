@@ -33,17 +33,20 @@ Javascript (ES6), React, Redux, Ruby, Rails, SQL, Postgres, HTML, CSS, Git, Adob
 
 ### <strong>Experience</strong>
 <strong>HBO Max</strong>, New York, NY <br>
-<i>Director’s Assistant, Americanah Production</i>, 01/2020 - 03/2020
+<i>Director’s Assistant, Americanah Production</i> <br>
+01/2020 - 03/2020
 * Facilitated interdepartmental communication and collaboration
 * Managed scheduling, kept meeting notes, and fostered relationships with each department head
 
 <strong>Content & Social Media Consultant</strong>, Multiple locations <br>
-<i>Ora Organic and Shop Good, San Diego, CA; DBA: Natasha Boote Photography</i>, 01/2015 - 12/2019
+<i>Ora Organic and Shop Good, San Diego, CA; DBA: Natasha Boote Photography</i> <br>
+01/2015 - 12/2019
 * Devised social media and content strategy and initiated cohesive brand presence to appeal to ideal clients
 * Worked with clients to cultivate unique visual brand personalities using photography and illustration
 
 <strong>Customer Service & Hospitality</strong>, Multiple locations <br>
-<i>City Pork, Baton Rouge, LA; Anthropologie, Minneapolis, MN; Ora Organic</i>, 09/2007 - 09/2019
+<i>City Pork, Baton Rouge, LA; Anthropologie, Minneapolis, MN; Ora Organic</i> <br>
+09/2007 - 09/2019
 * Served multiple customers simultaneously; worked as part of a team; proactively addressed problems
 * Authored customer service protocol to standardize and prioritize customer experience
 
