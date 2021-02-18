@@ -1,13 +1,21 @@
+
+
 # Sascha Kala
 mxsaschakala@gmail.com | <a href="https://www.linkedin.com/in/saschakala/">LinkedIn</a>, <a href="https://saschakala.medium.com/">Medium</a>, <a href="https://github.com/saschakala">Github</a>: @saschakala
 
 ### <strong>Full Stack Engineer</strong>
-Curious and innovative problem solver with an excitement for building full-stack applications using JavaScript and Ruby on Rails. Possesses strong skills in team-building and collaboration coupled with an expertise in customer service that would be an asset to any company looking to exceed user expectations.
+Curious and innovative problem solver with an excitement for building full-stack applications using React and Ruby on Rails. Possesses strong skills in team-building and collaboration coupled with an expertise in customer service that would be an asset to any company looking to exceed user expectations.
 
 ### <strong>Technical Skills</strong>
-Javascript (ES6), React, Redux, Ruby, Rails, SQL, Postgres, HTML, CSS, Git, Adobe Creative Suite
+Javascript (ES6), React, Redux, Ruby, Rails, SQL, Postgres, OAuth, Devise, Bootstrap, HTML, CSS, Git, Adobe Creative Suite 
  
 ### <strong>Projects</strong>
+<strong>Autism Resource Compendium</strong> - <a href="https://github.com/saschakala/autism_resource_frontend">GitHub</a> | <a href="https://youtu.be/UA1YfdARy7c">Demo</a> <br>
+<i>Compendium of autism resources backed by a Rails API with Postgres database</i> <br>
+* Created a React with Redux front end and Rails/Active Record/Postgres back-end 
+* Utilized React-Bootstrap to optimize user experience with an intuitive, responsive design
+* Enabled asynchronous fetch calls using Redux Thunk to power resource display and filtering
+
 <strong>Brick</strong> - <a href="https://github.com/saschakala/brick_frontend">GitHub</a> | <a href="https://www.youtube.com/watch?v=Y6TQnaW1kKk">Demo</a> <br>
 <i>Browser game with 2D animation and database supported scoreboard</i> <br>
 * Developed Javascript front-end and Rails/Active Record/Postgres back-end 
@@ -42,7 +50,7 @@ Javascript (ES6), React, Redux, Ruby, Rails, SQL, Postgres, HTML, CSS, Git, Adob
 <i>Ora Organic and Shop Good, San Diego, CA; DBA: Natasha Boote Photography</i> <br>
 01/2015 - 12/2019
 * Devised social media and content strategy and initiated cohesive brand presence to appeal to ideal clients
-* Worked with clients to cultivate unique visual brand personalities using photography and illustration
+* Worked with clients to cultivate unique visual brand personalities using photography and illustration 
 
 <strong>Customer Service & Hospitality</strong>, Multiple locations <br>
 <i>City Pork, Baton Rouge, LA; Anthropologie, Minneapolis, MN; Ora Organic</i> <br>
@@ -52,7 +60,8 @@ Javascript (ES6), React, Redux, Ruby, Rails, SQL, Postgres, HTML, CSS, Git, Adob
 
 ### <strong>Education</strong>
 <strong>Flatiron School</strong> <br>
-Full Stack Web Development, Ruby on Rails and JavaScript bootcamp 	
+Full Stack Web Development, Ruby on Rails and JavaScript bootcamp   
 
 <strong>University of Montana</strong>: Missoula, MT <br>
-BS Restoration Ecology; BS Resource conservation; Minor Biology 	                         
+BS Restoration Ecology; BS Resource conservation; Minor Biology                              
+
